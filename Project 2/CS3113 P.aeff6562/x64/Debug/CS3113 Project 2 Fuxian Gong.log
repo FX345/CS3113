@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\15028\source\repos\SDLSimple\CS3113 Project 2 Fuxian Gong\main.cpp(34,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\15028\source\repos\SDLSimple\CS3113 Project 2 Fuxian Gong\main.cpp(35,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\15028\source\repos\SDLSimple\CS3113 Project 2 Fuxian Gong\main.cpp(115,5): warning C4002: too many arguments for function-like macro invocation 'LOG'
+LINK : fatal error LNK1104: cannot open file 'SDL2_mixer.lib'
