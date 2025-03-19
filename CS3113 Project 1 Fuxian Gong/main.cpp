@@ -112,7 +112,7 @@ GLuint load_texture(const char* filepath)
         assert(false);
     }
 
-    LOG("Loading texture: ", filepath);
+    LOG("Loading texture£º", filepath);
     // STEP 2: Generating and binding a texture ID to our image
     GLuint textureID;
     glGenTextures(NUMBER_OF_TEXTURES, &textureID);
@@ -132,7 +132,7 @@ GLuint load_texture(const char* filepath)
 
 void initialise()
 {
-    // HARD INITIALISE ———————————————————————————————————————————————————————————————————
+    // HARD INITIALISE ——————————————————————————————————————————————————————————————————?
     SDL_Init(SDL_INIT_VIDEO);
     g_display_window = SDL_CreateWindow("Simple 2D scene",
         SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED,
@@ -155,9 +155,9 @@ void initialise()
     glewInit();
 #endif
 
-    // ———————————————————————————————————————————————————————————————————————————————————
+    // ——————————————————————————————————————————————————————————————————————————————————?
 
-    // SOFT INITIALISE ———————————————————————————————————————————————————————————————————
+    // SOFT INITIALISE ——————————————————————————————————————————————————————————————————?
     // Initialise our camera
     glViewport(VIEWPORT_X, VIEWPORT_Y, VIEWPORT_WIDTH, VIEWPORT_HEIGHT);
 
