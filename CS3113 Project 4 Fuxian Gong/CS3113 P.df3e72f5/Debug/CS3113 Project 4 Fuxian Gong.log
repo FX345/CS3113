@@ -1,0 +1,67 @@
+﻿  Entity.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Entity.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Entity.cpp')
+  
+  Level1.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level1.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level1.cpp')
+  
+  Level2.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level2.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level2.cpp')
+  
+  Level3.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level3.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level3.cpp')
+  
+  main.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(375,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(394,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(458,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(458,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(460,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\main.cpp(463,75): warning C4305: 'argument': truncation from 'double' to 'float'
+  Map.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Map.cpp(87,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Map.cpp(88,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Menu.cpp(80,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Menu.cpp(81,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Menu.cpp(81,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  Scene.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+  ShaderProgram.cpp
+  Utility.cpp
+C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Utility.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CS3113 Project 4 Fuxian Gong.vcxproj -> C:\Users\15028\Desktop\1\CS3113 Project 4 Fuxian Gong\Debug\CS3113 Project 4 Fuxian Gong.exe
