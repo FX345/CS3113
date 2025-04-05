@@ -1,0 +1,56 @@
+﻿  Level1.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level1.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level1.cpp')
+  
+  Level2.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level2.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level2.cpp')
+  
+  Level3.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level3.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Level3.cpp')
+  
+  Menu.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Menu.cpp(80,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\source\repos\SDLSimple\platform\Menu.cpp(81,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\source\repos\SDLSimple\platform\Menu.cpp(81,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  Scene.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+  Utility.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Utility.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(375,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(394,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(458,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(458,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(460,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15028\source\repos\SDLSimple\platform\main.cpp(463,75): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  platform.vcxproj -> C:\Users\15028\source\repos\SDLSimple\platform\Debug\platform.exe
