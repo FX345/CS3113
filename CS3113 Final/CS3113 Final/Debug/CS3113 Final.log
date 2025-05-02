@@ -1,0 +1,13 @@
+﻿  Boss.cpp
+  Boss2.cpp
+  Boss3.cpp
+  Effects.cpp
+  Game.cpp
+  Knight.cpp
+  Map.cpp
+  Monster.cpp
+  Slash.cpp
+  main.cpp
+C:\Users\15028\source\repos\SDLSimple\CS3113 Final\main.cpp(638,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  CS3113 Final.vcxproj -> C:\Users\15028\source\repos\SDLSimple\CS3113 Final\Debug\CS3113 Final.exe
